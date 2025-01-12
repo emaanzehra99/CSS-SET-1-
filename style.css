@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(250, 202, 230);
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+p {
+    background-color: aqua;
+}
+
+.one {
+    background-color: rgb(214, 192, 235);
+    color: black;
+}
+
+.first {
+    background-color: rgb(229, 160, 160);
+}
+
+.second {
+    color: blue;
+}
+
+.third {
+    font-size: 20px;
+}
